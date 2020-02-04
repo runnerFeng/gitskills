@@ -1,3 +1,6 @@
+#idea file
+*.impl
+.idea/*
 # Compiled class file
 *.class
 
