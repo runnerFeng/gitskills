@@ -2,3 +2,4 @@ add new file
 add a word to test git branch --merge command
 test git log test..master command
 test git log origin/master.. command
+test git log  --left-right master...test3
