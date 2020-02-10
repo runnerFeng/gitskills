@@ -5,3 +5,4 @@ test git log origin/master.. command
 test git log  --left-right master...test3
 test rebase command
 test rebase command again
+test rebase three
