@@ -8,3 +8,4 @@ test rebase command again
 test rebase three
 test rebase four
 test rebase five in branch master
+test rebase six in branch test2
