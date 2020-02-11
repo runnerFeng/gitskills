@@ -7,3 +7,5 @@ test git log command
 modify this file to test git rm command result
 test rebase
 test rebase graph
+test git add -i two
+tset git add -i three
