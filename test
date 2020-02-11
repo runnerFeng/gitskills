@@ -14,3 +14,4 @@ test git rebase -i second
 test git rebase -i three
 test git stash 
 test git stash two
+test git stash pop
