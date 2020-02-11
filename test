@@ -12,3 +12,5 @@ test rebase six in branch test2
 test git rebase -i
 test git rebase -i second
 test git rebase -i three
+test git stash 
+test git stash two

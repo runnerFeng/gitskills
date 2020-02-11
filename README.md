@@ -9,3 +9,4 @@ test rebase
 test rebase graph
 test git add -i
 test git add -i again
+test git stash
